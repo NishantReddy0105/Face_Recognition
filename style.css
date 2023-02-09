@@ -1,0 +1,16 @@
+.heading {
+    font-size: 50px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: linear-gradient(white 0%, black 100%);
+}
+
+b {
+    font-family: 'Times New Roman', Times, serif; font-weight: bolder; color: black; font-size: medium;
+}
